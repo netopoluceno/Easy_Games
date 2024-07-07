@@ -37,8 +37,7 @@ print("You got it in", guesses, "guesses")
 # ------
 
 '''
-Utilizar a lógica para criar 2 scripts
-1 - Dado para jogos
-2 - Sorteios
+Utilizar a lógica para criar:
+Sorteios
 - Adicionar interface gráfica
 '''
